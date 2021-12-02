@@ -19,3 +19,5 @@ jobs:
         with:
           #file: terraform/aws/main.tf
           args: --severity-threshold=high
+          
+          
